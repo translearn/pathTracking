@@ -9,5 +9,5 @@ numpy==1.19.5
 pybullet==3.1.7
 ray[default]==1.4.1
 ray[rllib]==1.4.1
-scipy==1.7.0
+scipy==1.5.4
 tensorflow==2.5.0
