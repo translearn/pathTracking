@@ -1,0 +1,1 @@
+{"max_dis_between_knots": 0.3199656233060192, "num_train": 0, "num_test": 200, "resampling_distance": 0.3, "curvature_sampling_distance": null, "length_correction_step_size": 2e-04, "use_normalized_length_correction_step_size": false, "reflection_vectors": [[1, 1, 1, 1, 1, 1, 1], [-1, -1, -1, -1, -1, -1, -1], [-1, 1, -1, 1, -1, 1, -1], [1, -1, 1, -1, 1, -1, 1]]}
