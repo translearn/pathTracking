@@ -1,4 +1,5 @@
 # Learning Time-optimized Path Tracking with or without Sensory Feedback
+[![IROS 2022](https://img.shields.io/badge/IROS-2022-%3C%3E)](https://iros2022.org/)
 [![arXiv](https://img.shields.io/badge/arXiv-2203.01968-B31B1B)](http://arxiv.org/abs/2203.01968)
 [![GitHub issues](https://img.shields.io/github/issues/translearn/pathtracking)](https://github.com/translearn/safemotions/issues/) <br>
 
