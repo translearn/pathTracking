@@ -562,6 +562,8 @@ if __name__ == '__main__':
                 env_config['spline_dir'] = os.path.join(os.path.dirname(env_config['spline_dir']), args.spline_dir)
                 if not os.path.isdir(env_config['spline_dir']):
                     env_config['spline_dir'] = os.path.join(current_dir, "dataset", args.spline_dir)
+            else:
+                env_config['spline_dir'] = args.spline_dir
         if not os.path.isdir(env_config['spline_dir']):
             raise FileNotFoundError("Could not find spline_dir {}".format(env_config['spline_dir']))
         if args.spline_config_path is not None:
